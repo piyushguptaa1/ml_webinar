@@ -1,0 +1,11 @@
+#python
+#git
+#pip
+#github
+
+vs code --->github.com 
+git init 
+git add
+git config --global user.name "piyushguptaa1"
+git config --global user.email "piyshsg3612663@gmail.com"
+git comit -m "first program"
